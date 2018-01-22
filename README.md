@@ -3,22 +3,27 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> Zvidzwa, Tapiwa 
+> Zvidzwa, Tapiwa
+> Ramay, Anaan
 
 What do you prefer to be called?
 > Tapiwa
+> Anaan
 
 What are your GitHub usernames?
 > tapszvidzwa
+> anaanramay
 
 Why are you taking this course?
-> I love android programming and I would love to apply the knowledge from this class to that OS environment.
+> Tapiwa: I love android programming and I would love to apply the knowledge from this class to that OS environment.
+> Anaan: I need it for my CS major and additionally I'd like to learn how computers actually work behind the scenes
 
 Do you have any concerns about this course?
 > None
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> Memory API, Process API, Threads, Concurrency
+> Tapiwa: Memory API, Process API, Threads, Concurrency
+> Anaan: Segmentation, Scheduling, System Design, Concurrency Bugs
 
 Do you have any questions about the course?
 > What is the expected amount of time we should spend on the labs? What part of the course is most challenging to most students?
@@ -46,3 +51,4 @@ Where can you find our course textbook?
 
 When are you free during my scheduled office hours?
 > Tapiwa -> Wednesday 3 - 4:30pm
+> Anaan -> Monday 11-11:45 and for all of your office hours on Wednesday and Friday
